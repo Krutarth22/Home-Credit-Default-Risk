@@ -1,4 +1,4 @@
-# Home-Credit-Default-Risk
+# Home Credit Default Risk
 
 The aim of this project is to classify whether a customer of Home Credit will default on its loan or not based on various attributes of the customer as well as their history with other loans.
 
